@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>playing by ear | Seb Silas</title>
+    <link>https://sebsilas.github.io/tag/playing-by-ear/</link>
+      <atom:link href="https://sebsilas.github.io/tag/playing-by-ear/index.xml" rel="self" type="application/rss+xml" />
+    <description>playing by ear</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebsilas.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>playing by ear</title>
+      <link>https://sebsilas.github.io/tag/playing-by-ear/</link>
+    </image>
+    
+    <item>
+      <title>Playing By Ear</title>
+      <link>https://sebsilas.github.io/project/pbet/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://sebsilas.github.io/project/pbet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
