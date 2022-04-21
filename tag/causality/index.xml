@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>causality | Seb Silas</title>
+    <link>https://sebsilas.github.io/tag/causality/</link>
+      <atom:link href="https://sebsilas.github.io/tag/causality/index.xml" rel="self" type="application/rss+xml" />
+    <description>causality</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebsilas.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>causality</title>
+      <link>https://sebsilas.github.io/tag/causality/</link>
+    </image>
+    
+    <item>
+      <title>The associations between music training, musical working memory and visuospatial working memory: an opportunity for causal modeling.</title>
+      <link>https://sebsilas.github.io/publication/working-memory-causality/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebsilas.github.io/publication/working-memory-causality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

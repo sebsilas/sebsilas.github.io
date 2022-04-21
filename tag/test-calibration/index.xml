@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test calibration | Seb Silas</title>
+    <link>https://sebsilas.github.io/tag/test-calibration/</link>
+      <atom:link href="https://sebsilas.github.io/tag/test-calibration/index.xml" rel="self" type="application/rss+xml" />
+    <description>test calibration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebsilas.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>test calibration</title>
+      <link>https://sebsilas.github.io/tag/test-calibration/</link>
+    </image>
+    
+    <item>
+      <title>The Jack and Jill Adaptive Working Memory Task: Construction, Calibration and Validation.</title>
+      <link>https://sebsilas.github.io/publication/jack-and-jill/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sebsilas.github.io/publication/jack-and-jill/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
